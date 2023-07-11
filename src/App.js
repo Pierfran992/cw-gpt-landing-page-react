@@ -3,7 +3,7 @@ import './App.css';
 function Header() {
   return (
     <header>
-      <h1>Hello Wolrd</h1>
+      <h1>Boolean Coding Week</h1>
     </header>
   );
 }
