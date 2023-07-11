@@ -8,4 +8,13 @@ function Header() {
   );
 }
 
+function Jumbo() {
+  return (
+    <div className='jumbotron'>
+
+    </div>
+  );
+}
+
 export default Header;
+// export default Jumbo;
