@@ -4,6 +4,7 @@ import './index.css';
 import Header from './header';
 import Jumbotron from './jumbo';
 import Main from './main';
+import Footer from './footer';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -12,6 +13,7 @@ root.render(
     <Header />
     <Jumbotron />
     <Main />
+    <Footer />
   </React.StrictMode>
 );
 
