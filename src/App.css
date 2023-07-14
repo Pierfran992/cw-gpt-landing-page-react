@@ -58,7 +58,19 @@ header h1 {
   margin-bottom: 15px;
 }
 
-.parGenAi {
+.parGenAi,
+.parDallE {
   display: flex;
   align-items: center;
+  gap: 30px;
+}
+
+.containerMain h4 {
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+
+.parChatGptImage {
+  width: 100%;
+  margin: 15px 0;
 }
