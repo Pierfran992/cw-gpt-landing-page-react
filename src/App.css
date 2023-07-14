@@ -88,4 +88,11 @@ footer {
   width: 90%;
   margin: 0 auto;
   max-width: 1044px;
+  text-align: right;
+  color: white;
+}
+
+.ctnFooter a {
+  font-weight: 600;
+  color: rgb(236, 30, 236);
 }
